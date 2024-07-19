@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">PROJECTS</h1>
+<h2 align="center">TerminalFract</h2>
+<p align="center">
+  <strong>TerminalFract is an interactive, terminal-based Mandelbrot/Julia set explorer that renders the famous fractals using ASCII characters. All done using C++.</strong>
+</p>
+<p align="center">
+  <a href="https://github.com/Jaydenluse/TerminalFract">View Project</a>
+</p>
 
-<!--
-**Jaydenluse/JaydenLuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Animated GIF optimizer](https://github.com/user-attachments/assets/3b15354b-9c00-4c0e-a91c-cff6d22be014)
 
-Here are some ideas to get you started:
+**Follow the instructions on the site to use or install the project**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
