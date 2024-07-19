@@ -40,5 +40,20 @@
 </p>
 </details>
 
+<details>
+<summary><h2 align="center">Snake</h2></summary>
+
+<p align="center">
+  <em>Snake is my attempt at the classic snake game. Using Python, mainly the PyGame library, I created a snake game with save and loading logic as well as token accumulation and spending features. 
+</em>
+</p>
+<p align="center">
+  <a href="https://github.com/Jaydenluse/pzl-scraper/tree/main/">View Project</a><img width="999" 
+</p>
+<p align="center">
+  <img width="1302" alt="Screenshot 2024-07-19 at 12 02 42 AM" src="https://github.com/user-attachments/assets/670d65d6-4766-4bc9-ab8f-ef64ab5c9dad">
+</p>
+</details>
+
 
 
