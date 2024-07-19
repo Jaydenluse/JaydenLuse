@@ -28,4 +28,17 @@
 </p>
 </details>
 
+<details>
+<summary><h2 align="center">pzlscraper</h2></summary>
+
+<p align="center">
+  <em>pzlscraper is an automated system designed to download various (currently 8) crossword puzzles daily and upload them to Dropbox, mainly for archival purposes. This project utilizes GitHub Actions for scheduling and executing the scraping and uploading processes. 
+</em>
+</p>
+<p align="center">
+  <a href="https://github.com/Jaydenluse/pzl-scraper/tree/main/">View Project</a>
+</p>
+</details>
+
+
 
